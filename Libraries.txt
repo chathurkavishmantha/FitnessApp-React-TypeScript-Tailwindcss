@@ -1,0 +1,9 @@
+npm i framer-motion - (animation)
+npm i react-anchor-link-smooth-scroll@1.0.12 - nav bar icons derection
+npm install @heroicons/react
+npm i -D 
+npm i @types/react-anchor-link-smooth-scroll
+npm i @types/node
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm i -D prettier prettier-plugin-tailwindcss - (to arange tailwindcss code well manner with prettier plugin)
